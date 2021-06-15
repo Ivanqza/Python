@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataTypesAndVariablesExercise/.idea/DataTypesAndVariablesExercise.iml" filepath="$PROJECT_DIR$/../DataTypesAndVariablesExercise/.idea/DataTypesAndVariablesExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dictionaries/.idea/Dictionaries.iml" filepath="$PROJECT_DIR$/../Dictionaries/.idea/Dictionaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DictionariesEx/.idea/DictionariesEx.iml" filepath="$PROJECT_DIR$/../DictionariesEx/.idea/DictionariesEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalsExamTraining.iml" filepath="$PROJECT_DIR$/.idea/FinalsExamTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FundamentalsBasicSyntaxEX/.idea/FundamentalsBasicSyntaxEX.iml" filepath="$PROJECT_DIR$/../FundamentalsBasicSyntaxEX/.idea/FundamentalsBasicSyntaxEX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MidTermPrep/.idea/MidTermPrep.iml" filepath="$PROJECT_DIR$/../MidTermPrep/.idea/MidTermPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MoreDictionaries/.idea/MoreDictionaries.iml" filepath="$PROJECT_DIR$/../MoreDictionaries/.idea/MoreDictionaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RegEx/.idea/RegEx.iml" filepath="$PROJECT_DIR$/../RegEx/.idea/RegEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TextProcessing/.idea/TextProcessing.iml" filepath="$PROJECT_DIR$/../TextProcessing/.idea/TextProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../moreEXfunctions/.idea/moreEXfunctions.iml" filepath="$PROJECT_DIR$/../moreEXfunctions/.idea/moreEXfunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../moreEXlists/.idea/moreEXlists.iml" filepath="$PROJECT_DIR$/../moreEXlists/.idea/moreEXlists.iml" />
+    </modules>
+  </component>
+</project>
