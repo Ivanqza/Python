@@ -1,0 +1,19 @@
+.py
+- - - 1. EX Even Lines.py
+- - - 1. File Opener.py
+- - - 2. EX Line Numbers.py
+- - - 2. File Reader.py
+- - - 3. EX File Manipulator.py
+- - - 3. File Writer.py
+- - - 4. EX Directory Traversal.py
+- - - 4. File Delete.py
+- - - 5. Word Count.py
+.txt
+- - - input.txt
+- - - my_first_file.txt
+- - - numbers.txt
+- - - output.txt
+- - - outputex.txt
+- - - report.txt
+- - - text.txt
+- - - words.txt
